@@ -1,6 +1,6 @@
 # TrashFinder.sh
 
-A snappy shell script for Android (Termux/terminal) that helps you find junk files and empty folders in your storage—without deleting anything for you. Great for manual cleanup and seeing where your space is going!
+A snappy shell script for Android (Termux/terminal) that helps you find junk files and empty folders in your storage (no root needed)
 
 ## What It Does
 - Scans `/sdcard` and subfolders for:
